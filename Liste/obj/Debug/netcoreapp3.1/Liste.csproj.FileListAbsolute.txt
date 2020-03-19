@@ -1,0 +1,11 @@
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\bin\Debug\netcoreapp3.1\Liste.exe
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\bin\Debug\netcoreapp3.1\Liste.deps.json
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\bin\Debug\netcoreapp3.1\Liste.runtimeconfig.json
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\bin\Debug\netcoreapp3.1\Liste.runtimeconfig.dev.json
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\bin\Debug\netcoreapp3.1\Liste.dll
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\bin\Debug\netcoreapp3.1\Liste.pdb
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\obj\Debug\netcoreapp3.1\Liste.AssemblyInfoInputs.cache
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\obj\Debug\netcoreapp3.1\Liste.AssemblyInfo.cs
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\obj\Debug\netcoreapp3.1\Liste.dll
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\obj\Debug\netcoreapp3.1\Liste.pdb
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Liste\obj\Debug\netcoreapp3.1\Liste.csprojAssemblyReference.cache

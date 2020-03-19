@@ -1,0 +1,11 @@
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\bin\Debug\netcoreapp3.1\Tableau.exe
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\bin\Debug\netcoreapp3.1\Tableau.deps.json
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\bin\Debug\netcoreapp3.1\Tableau.runtimeconfig.json
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\bin\Debug\netcoreapp3.1\Tableau.runtimeconfig.dev.json
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\bin\Debug\netcoreapp3.1\Tableau.dll
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\bin\Debug\netcoreapp3.1\Tableau.pdb
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\obj\Debug\netcoreapp3.1\Tableau.csprojAssemblyReference.cache
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\obj\Debug\netcoreapp3.1\Tableau.AssemblyInfoInputs.cache
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\obj\Debug\netcoreapp3.1\Tableau.AssemblyInfo.cs
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\obj\Debug\netcoreapp3.1\Tableau.dll
+D:\cpnv info\trimestre 3\MA24\rechercheInter\RechercheInternet\Tableau\obj\Debug\netcoreapp3.1\Tableau.pdb
